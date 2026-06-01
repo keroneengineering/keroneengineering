@@ -2,7 +2,7 @@
 
 > **Designer, manufacturer, and exporter of industrial heating, drying & process solutions — since 1976.**
 
-[![Website](https://img.shields.io/badge/Website-kerone.in-blue?style=flat-square)](https://www.kerone.in)
+[![Website](https://img.shields.io/badge/Website-kerone.in-blue?style=flat-square)](https://www.kerone.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KERONE-0077B5?style=flat-square&logo=linkedin)](https://in.linkedin.com/company/kerone-india)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-orange?style=flat-square)](https://maps.google.com/?q=Mira+Bhayandar+Maharashtra)
 [![Est.](https://img.shields.io/badge/Est.-1976-green?style=flat-square)]()
@@ -20,10 +20,6 @@ In 1990, KERONE diversified into advanced heating and drying technologies throug
 ## What We Build
 
 We design, manufacture, and supply specialised industrial process equipment across a wide range of technologies:
-
-### 🔥 Heating Systems
-- Corrugation Heaters · Immersion Heaters · Ceramic Infrared Heaters
-- MBF Burners · Electric Heating Equipment · Control Panels
 
 ### 💨 Industrial Dryers
 - Infrared Dryers · Microwave (MW) Dryers · Radio Frequency (RF) Dryers
@@ -45,6 +41,10 @@ We design, manufacture, and supply specialised industrial process equipment acro
 ### 🛡️ Sterilisation & Disinfection
 - Sterilisation Systems · Disinfestation Systems
 - Industrial Automation Systems
+
+### 🔥 Heating Systems
+- Corrugation Heaters · Immersion Heaters · Ceramic Infrared Heaters
+- MBF Burners · Electric Heating Equipment · Control Panels
 
 ---
 
@@ -92,7 +92,7 @@ Marudhar Industrial Estate, HP Gas Godown Lane
 Goddev Fatak Road, Bhayander (E)  
 Mira Bhayandar, Maharashtra – 401105, India
 
-🌐 [www.kerone.in](https://www.kerone.in)  
+🌐 [www.kerone.in](https://www.kerone.com)  
 💼 [LinkedIn](https://in.linkedin.com/company/kerone-india)
 
 ---
