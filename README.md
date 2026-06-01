@@ -1,4 +1,4 @@
-# KERONE Engineering Solutions Ltd.
+# KERONE Engineering Solutions Ltd. 
 
 > **Designer, manufacturer, and exporter of industrial heating, drying & process solutions — since 1976.**
 
