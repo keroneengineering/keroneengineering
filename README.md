@@ -92,7 +92,7 @@ Marudhar Industrial Estate, HP Gas Godown Lane
 Goddev Fatak Road, Bhayander (E)  
 Mira Bhayandar, Maharashtra – 401105, India
 
-🌐 [www.kerone.in](https://www.kerone.com)  
+🌐 [www.kerone.com](https://www.kerone.com)  
 💼 [LinkedIn](https://in.linkedin.com/company/kerone-india)
 
 ---
