@@ -2,7 +2,7 @@
 
 > **Designer, manufacturer, and exporter of industrial heating, drying & process solutions — since 1976.**
 
-[![Website](https://img.shields.io/badge/Website-kerone.in-blue?style=flat-square)](https://www.kerone.com)
+[![Website](https://img.shields.io/badge/Website-kerone.com-blue?style=flat-square)](https://www.kerone.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KERONE-0077B5?style=flat-square&logo=linkedin)](https://in.linkedin.com/company/kerone-india)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-orange?style=flat-square)](https://maps.google.com/?q=Mira+Bhayandar+Maharashtra)
 [![Est.](https://img.shields.io/badge/Est.-1976-green?style=flat-square)]()
